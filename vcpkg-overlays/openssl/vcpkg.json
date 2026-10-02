@@ -1,0 +1,7 @@
+{
+  "name": "openssl",
+  "version": "3.6.3",
+  "description": "Uses the system OpenSSL instead of building one. Required so s2n, curl, and the AWS SDK share the image's FIPS-validated libcrypto.",
+  "homepage": "https://www.openssl.org",
+  "license": "Apache-2.0"
+}
